@@ -106,7 +106,6 @@ function App() {
           </div>
         );
       }
-    }
 
   }
   return (
