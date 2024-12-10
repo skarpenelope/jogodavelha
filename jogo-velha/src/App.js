@@ -2,9 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import React from 'react';
 
-
-function App() {
-
   class Quadrado extends React.Component{
     render() {
       return (
@@ -108,14 +105,7 @@ function App() {
       }
 
   }
-  return (
-    <div className="App">
-
-      <Jogo/>
       
     </div>
   );
 }
-
-export default App
-
